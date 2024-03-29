@@ -1,8 +1,8 @@
-# TITLE
+# Ploppy
 ![](icon.png)
 
 ## About
-
+A simple crm spicialized in HR
 
 ## Features
 
@@ -14,6 +14,8 @@
 
 
 ## Skills
+Django
+React
 
 
 ## Credits
